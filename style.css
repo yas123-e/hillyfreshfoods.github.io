@@ -1,0 +1,197 @@
+
+body{
+    background-color: #F5DEB3;
+}
+a{
+	color: #F5F5F5;
+    font-family: gotham;
+}
+a:hover{
+	color: #F6E05E;
+	text-decoration: none;
+}
+section {
+    padding: 100px 0px;
+}
+img{
+	width: 100%;
+}
+header#header{
+	background: #007B5F;
+	border-bottom: 2px solid #75B61A;
+}
+.my-menu{
+	float: right !important;
+}
+.my-navbar li a{
+	font-weight: bold;
+}
+.mbl-btn i{
+	color: #F5F5F5;
+}
+
+.head-text {
+    text-align: left;
+}
+
+img.head-img img {
+    
+}
+.head-img {
+    
+}
+img.head-img {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 400px;
+}
+button .my-btn{
+	background: #75b61ac2;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+.my-btn:hover{
+	background: #F5F5F5;
+	color: #007B5F);
+	
+}
+section#shiping {
+    padding: 50px;
+    background: #007B5F;
+    color: white;
+}
+
+.box-icon {
+    display: inline-block;
+}
+
+.box-title {
+    display: inline-grid;
+    margin-left: 20px;
+}
+.box-title p{
+    color: #007B5F;
+}
+
+.box-title h3 {
+    font-size: 23px;
+    color: #007B5F;
+}
+
+.box-icon i {
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #007B5F;
+    font-size: 30px;
+}
+.shipping-box {
+    background: #F5F5F5;
+    padding: 25px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.products {
+    background: #F6F7F2;
+    padding: 10px;
+	transition: all .5s;
+}
+
+.product-desc {
+    text-align: center;
+}
+.product-rating{
+	width: 100px;
+	margin: auto;
+	margin-bottom: 5px;
+}
+.products:hover {
+    box-shadow: 0px 0px 5px 1px #ddd;
+}
+
+.product-img {
+    margin-bottom: 20px;
+}
+.product-img img{
+	cursor: pointer;
+}
+
+.logo {
+    font-size: 22px;
+    font-family: typographica;
+    color: #F5F5F5;
+}
+#shiping {
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer#footer {
+    background: #001524;
+    color: #6B7780;
+    padding: 60px;
+}
+.app-store {
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.app-img {
+    float: left;
+}
+.footer-title{
+    margin-bottom: 20px;
+}
+.footer-title h5 {
+    color: white;
+}
+.footer-logo{
+	width: 150px;
+	margin: auto;
+}
+.footer-desc ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.footer-desc ul li{
+	padding: 6px 0px;
+}
+.footer-desc ul li a{
+	
+}
